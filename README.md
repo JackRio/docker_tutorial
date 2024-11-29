@@ -1,4 +1,4 @@
-# docker_tutorial
+# Docker Tutorial
 Docker tutorial slides and code
 
 # If you want to experiment with docker.
